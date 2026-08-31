@@ -1,6 +1,6 @@
  <?php
-session_start();
-include('config.php');
+@session_start();
+@include('config.php');
 if(@$_REQUEST['msg']){
     echo $_REQUEST['msg'];
 }
