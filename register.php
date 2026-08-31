@@ -28,4 +28,4 @@
     </select><br>
     <input type="submit" name="btn" id="btn" value="Register">
 </form>
-<a href ="login.php">Login</a>
+<a href ="index.php">Login</a>
